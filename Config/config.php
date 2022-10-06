@@ -1,6 +1,6 @@
 <?php 
 
-const BASE_URL = "http://localhost/crud_medium_mvc/";
+const BASE_URL = "http://localhost/crud_me_mvc/";
 const HOST = "localhost";
 const USER = "root";
 const PASSWORD = "";

@@ -6,7 +6,7 @@
 				<form class="shadow p-3 mb-5 bg-white rounded-bottom" method="post"
 					action="" id="frmRestro" >
 					<div class="text-center mt-2">
-						<h1>Registro Usuario</h1>
+						<h1>Actualizar Usuario</h1>
 					</div>
 					<div class="mb-3">
 						<label for="txtNombre" class="form-label">Nombre(s):</label>
